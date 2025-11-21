@@ -107,13 +107,9 @@ Drill-down views for continent → country → date
 ⭐ Key Insights
 
 Identification of peak months with highest case spikes
-
 Countries with the highest confirmed cases and fatalities
-
 Growth/decline trends over time
-
 Comparison between global regions
-
 Recovery rate and death rate analysis
 
 📂 Project Files
@@ -125,19 +121,14 @@ README.md	Project documentation
 🚀 How to Use
 
 Clone or download the repository
-
 Open the .pbix file in Power BI Desktop
-
 Explore visuals and apply slicers
-
 Run SQL queries (optional) to understand data transformations
 
 🧑‍💻 Author
-
 Ritu Paul
 Fresher Data Analyst (Power BI | SQL | Excel)
 Passionate about building interactive dashboards and data models.
 
 ⭐ Support
-
 If you found this project useful, please ⭐ star this repository and share it!
